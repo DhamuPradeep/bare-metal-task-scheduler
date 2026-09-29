@@ -1,0 +1,18 @@
+# Build outputs
+Debug/
+Release/
+
+# Intermediate files
+*.o
+*.d
+*.su
+*.cyclo
+
+# Binary outputs
+*.elf
+*.bin
+*.hex
+*.srec
+*.map
+*.list
+
